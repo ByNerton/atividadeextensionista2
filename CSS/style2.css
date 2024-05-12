@@ -1,0 +1,46 @@
+div.center{
+    text-align: center;
+    font-size: 22pt;
+    color: #017143;
+    align-items: center;
+    text-decoration: underline;
+}
+
+p size{
+    text-align: center;
+    font-size: 16pt;
+    color: #017143;
+    align-items: center;
+    text-decoration: underline;
+    font-weight: 1000;
+}
+form{
+    text-align: center;
+    margin-top: 30px;
+}
+
+div.outraspag img{
+    max-width: 100px;
+    margin: 20px;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 18pt;
+    color: #017143;
+    align-items: center;
+    font-weight: 1000;
+}
+
+h1 size{
+    text-align: center;
+    font-size: 16pt;
+    color: #1613c9;
+    align-items: center;
+    font-weight: 1000;
+}
+
+label h1{
+    text-align: center;
+}
